@@ -11,10 +11,7 @@ A modern, full-featured real estate platform built with React that showcases res
 
 ## 📹 Project Walkthrough
 
-<p align="center">
-  <img src="./demo.gif" alt="Project Demo" width="800" />
-</p>
-
+[🎥 Watch Demo Video](./demo.mov)
 
 *A complete walkthrough of the platform's features and functionality*
 
